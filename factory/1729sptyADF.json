@@ -1,0 +1,15 @@
+{
+	"name": "1729sptyADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "edf18c8d-715f-445d-91ce-bff87214817e",
+		"tenantId": "a1bd46a5-8747-4a34-aece-47144c23d6f8"
+	}
+}
